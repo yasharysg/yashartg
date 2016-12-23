@@ -230,7 +230,7 @@ function create_config( )
       "weather",
       "xkcd",
       "youtube" },
-    sudo_users = {307744875}    disabled_channels = {}
+    sudo_users = {274630405}    disabled_channels = {}
   }
   serialize_to_file(config, './data/config.lua')
   print ('saved config into ./data/config.lua')
